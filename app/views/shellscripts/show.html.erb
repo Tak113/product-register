@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>App:</strong>
+  <%= @shellscript.app %>
+</p>
+
+<p>
+  <strong>Key:</strong>
+  <%= @shellscript.key %>
+</p>
+
+<p>
+  <strong>Note:</strong>
+  <%= @shellscript.note %>
+</p>
+
+<%= link_to 'Edit', edit_shellscript_path(@shellscript) %> |
+<%= link_to 'Back', shellscripts_path %>

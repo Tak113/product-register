@@ -1,0 +1,2 @@
+class Shellscript < ApplicationRecord
+end

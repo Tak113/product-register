@@ -1,0 +1,2 @@
+module ShrtctkiesHelper
+end
