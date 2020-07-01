@@ -1,2 +1,0 @@
-class Shrtctky < ApplicationRecord
-end
